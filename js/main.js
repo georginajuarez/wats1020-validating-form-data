@@ -8,6 +8,7 @@
 // Refer to the `index.html` file for the validation rules that must be enforced.
 
 //Atom didn't save my work any of the times that I was hitting save the first time, agh!
+//Atom was being a bit wonky. After redoing assignment stated pulling up lost assignment. Oy!
 
 $(document).on('ready', function(){
 
